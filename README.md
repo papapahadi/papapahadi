@@ -30,7 +30,6 @@
 </div>
 
 ###
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhjatin1812@gmail.com)
 
 <div align="left">
   <a href="https://www.instagram.com/papapahadi/" target="_blank">
